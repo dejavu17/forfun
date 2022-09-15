@@ -1,0 +1,183 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1,h2,h3 {
+  font-family: "Montserrat";
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #424242;
+}
+.balance-text {
+  text-align: left;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+a:hover {
+  color: #fff;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+#title .container-fluid{
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+/* navbar */
+
+.navbar-brand {
+  font-family: "Bebas Neue";
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.nav-link {
+  color: #000;
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+  font-weight: 300;
+  text-align: right;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+/* Headings */
+.big-heading {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  color: #fff;
+}
+
+/* Download Button */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* White Section */
+
+.white-section {
+  background: #fff;
+}
+
+/* Colored Section */
+
+.colored-section {
+  background: #000;
+}
+
+/* About Us */
+
+#about-us {
+  background-color: #26292d;
+  text-align: center;
+  padding: 3% 15% 7%;
+}
+
+.about-us-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.about-us-desc {
+  color: #eaeaeb;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+/* Pricing */
+
+#pricing {
+  background-color: #2a2e32;
+  text-align: center;
+  padding: 100px;
+}
+
+.pricing-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-amount {
+  font-size: 0.6rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.left-traits {
+  text-align: left;
+}
+
+.pricing-traits {
+  text-align: left;
+  font-size: 1rem;
+}
+
+.label-text {
+  font-size: 1.5rem;
+}
+
+/* Features */
+
+#features {
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: left;
+}
+
+.feature-heading {
+  color: #23272a;
+}
+
+.feature-text {
+  color: #000;
+  text-align: left;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #2a2e32;
+}
+
+.footer-icons {
+  color: #bfc0c2;
+  margin: 20px 10px;
+}
+
+.footer-text {
+  font-size: 0.7rem;
+  color: #bfc0c2;
+}
